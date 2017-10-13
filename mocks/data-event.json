@@ -1,0 +1,8 @@
+{
+    "body": "{\"firstName\":\"Muhammad Afzal\",\"age\":\"23\", \"dateofBirth\":\"19-Mar-1976\"}",
+    "requestContext": {
+      "identity": {
+        "cognitoIdentityId": "USER-SUB-1234"
+      }
+    }
+  }
